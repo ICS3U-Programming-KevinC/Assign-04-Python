@@ -2,7 +2,9 @@
 
 # Created by Kevin Csiffary
 # Date: Nov. 14, 2022
-# This program prints "Hello, World!" and has comments
+# This program asks the user for a string, the length of the subword,
+# and how many times to repeat it, then cuts out the subword and repeats it
+# the correct number of times
 
 
 def inputs():
